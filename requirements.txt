@@ -4,3 +4,5 @@ plotly
 streamlit-dynamic-filters
 openpyxl
 xlsxwriter
+streamlit-authenticator
+pyyaml
